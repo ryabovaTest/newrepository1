@@ -12,6 +12,7 @@ int main() {
   // put your code here
   int a,b,c,d;
   cin>> a>> b>> c>> d;
+  cout << "This is new line";
   cout<<min4(a,b,c,d);
   return 0;
 }
